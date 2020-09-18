@@ -1,6 +1,5 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./ImageGallery.css";
-import { useState } from "react";
 
 const ImageGallery = () => {
   const [left, setLeft] = useState(0);
@@ -25,7 +24,10 @@ const ImageGallery = () => {
     }
   };
 
-  setInterval(() => slide("right"), 5000);
+  useEffect(() => {
+    const timer = setInterval(() => slide("right"), 5000);
+    return () => clearInterval(timer);
+  });
 
   return (
     <div className="ImageGallery" id="ImageGallery">
