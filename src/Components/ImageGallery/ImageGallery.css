@@ -1,0 +1,44 @@
+.ImageGallery {
+  max-height: 100vh;
+  background-color: #3599bd;
+  overflow: hidden;
+  position: relative;
+}
+
+.ImageGallery .controls {
+  display: flex;
+  justify-content: space-between;
+  font-size: 3em;
+  /* color: #ff2261; */
+  position: absolute;
+  top: calc(50% - 1em);
+  z-index: 1;
+  width: 100%;
+}
+
+.ImageGallery .controls div {
+  margin: 1em;
+}
+
+.slide > img {
+  width: 100%;
+}
+
+.slide {
+  width: 100vw;
+}
+
+.slider {
+  display: flex;
+  width: 500vw;
+  position: relative;
+  top: 0;
+  left: -00vw;
+  transition: left 1.5s ease;
+}
+
+.frame {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}

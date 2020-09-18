@@ -10,8 +10,10 @@ const Welcome = () => {
         <p>Mastercrafted, custom-made vials for all your allomantic needs.</p>
       </div>
       <div className="learn-more">
-        <div>Learn more</div>
-        <i class="fas fa-chevron-down"></i>
+        <a href="#ImageGallery">
+          <div>Learn more</div>
+          <i className="fas fa-chevron-down"></i>
+        </a>
       </div>
     </div>
   );

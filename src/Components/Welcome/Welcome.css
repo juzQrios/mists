@@ -27,8 +27,13 @@
   margin: 1em auto;
 }
 
-.Welcome .learn-more {
+.learn-more {
   color: #3599bd;
+}
+
+.learn-more a {
+  color: inherit;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 768px) {
