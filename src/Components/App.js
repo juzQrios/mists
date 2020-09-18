@@ -1,11 +1,12 @@
 import React from "react";
+import Welcome from "./Welcome/Welcome";
+import "normalize.css";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello Tripoly</h1>
-      <h2>Work in progress</h2>
+      <Welcome />
     </div>
   );
 }
