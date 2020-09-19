@@ -31,14 +31,14 @@ const About = () => {
 
   return (
     <div className="About">
-      <div className="text-controls">
+      {/* <div className="text-controls">
         <div className="left-control" onClick={() => slide("left")}>
           <i className="fas fa-arrow-circle-left"></i>
         </div>
         <div className="right-control" onClick={() => slide("right")}>
           <i className="fas fa-arrow-circle-right"></i>
         </div>
-      </div>
+      </div> */}
       <div className="frame">
         <div className="text-slider">
           <article className="slide">
