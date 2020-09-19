@@ -1,23 +1,24 @@
-.ImageGallery {
+.About {
   max-height: 100vh;
   background-color: rgba(131, 221, 218, 0.1);
   overflow: hidden;
   position: relative;
+  padding-top: 5em;
 }
 
-.ImageGallery .controls {
+.text-controls {
   display: flex;
   justify-content: space-between;
-  font-size: 3em;
-  /* color: #ff2261; */
+  font-size: 2em;
+  color: #ff2261;
   position: absolute;
-  top: calc(50% - 1em);
+  top: calc(50% - 0.5em);
   z-index: 1;
   width: 100%;
 }
 
-.ImageGallery .controls div {
-  margin: 1em;
+.text-controls div {
+  margin: 0.5em;
 }
 
 .slide > img {
@@ -28,9 +29,21 @@
   width: 100vw;
 }
 
-.slider {
+.slide h3 {
+  font-size: 3em;
+  margin: 0;
+  color: #30758d;
+  font-weight: 400;
+}
+
+.slide p {
+  width: 70%;
+  margin: 1em auto;
+}
+
+.text-slider {
   display: flex;
-  width: 500vw;
+  width: 300vw;
   position: relative;
   top: 0;
   left: -00vw;
