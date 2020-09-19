@@ -3,7 +3,7 @@
   background-color: rgba(131, 221, 218, 0.1);
   overflow: hidden;
   position: relative;
-  padding-top: 5em;
+  padding: 4em 0;
 }
 
 .text-controls {

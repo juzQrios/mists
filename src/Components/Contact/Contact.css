@@ -1,0 +1,50 @@
+.Contact {
+  background-color: #3599bd;
+}
+
+.Contact button {
+  border: none;
+  margin: 4em;
+  font-weight: 400;
+  padding: 0.5em 2em;
+  font-size: 1.2em;
+  background-color: #fac4aa;
+  border-radius: 50px;
+  transition: box-shadow 0.3s linear;
+}
+
+.Contact button:hover {
+  cursor: pointer;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(120, 120, 120, 1);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(120, 120, 120, 1);
+  box-shadow: 0px 0px 10px 0px rgba(120, 120, 120, 1);
+}
+
+.social {
+  padding: 1em;
+  background-color: #f2fcfb;
+  /* border-top-left-radius: 10px; */
+  /* border-top-right-radius: 10px; */
+}
+
+.social header {
+  font-size: 2em;
+  margin: 0.5em;
+}
+
+.social-links a {
+  font-size: 1.5em;
+  margin: 1em;
+}
+
+#facebook {
+  color: #3b5998;
+}
+
+#insta {
+  color: #dd2a7b;
+}
+
+#youtube {
+  color: red;
+}
