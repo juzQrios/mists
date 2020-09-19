@@ -33,7 +33,7 @@ const Contact = () => {
   const popOver = (
     <div className="pop-up">
       <div className="content">
-        <div>{msg}</div>
+        <div className="message">{msg}</div>
         <button onClick={() => setMsgVisible(false)}>Ok</button>
       </div>
     </div>
