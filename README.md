@@ -10,7 +10,7 @@
   <a href="https://tripoly-challenge.netlify.app/">Live Demo</a>
 </p>
 <p align="center">
-  <a href="https://tripoly-challenge.netlify.app/">Figma Design</a>
+  <a href="https://www.figma.com/community/file/888694273623743482/Tripoly-Design-Challenge">Figma Design</a>
 </p>
 
 ## Built With
