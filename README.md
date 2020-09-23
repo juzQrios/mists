@@ -1,6 +1,6 @@
-# Tripoly Challenge
+# Mists
 
-> Tripoly interview test.
+> Landing page for a fictional business.
 
 [//]: # (Screenshot, Application concept art etc)
 ![Screenshot](./screenshot.png)
