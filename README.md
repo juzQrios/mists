@@ -7,22 +7,10 @@
 
 [//]: # (Live Demo link)
 <p align="center">
-  <a 
-    href="https://mists-fictional.netlify.app/"
-    target="_blank"
-    rel="noopener noreferrer"
-   >
-   Live Demo
-  </a>
+  <a href="https://mists-fictional.netlify.app/">Live Demo</a>
 </p>
 <p align="center">
-  <a 
-    href="https://www.figma.com/community/file/888694273623743482/Mists"
-    target="_blank"
-    rel="noopener noreferrer"
-   >
-   Figma Design
-  </a>
+  <a href="https://www.figma.com/community/file/888694273623743482/Mists">Figma Design</a>
 </p>
 
 ## Built With
