@@ -1,6 +1,6 @@
 # Mists
 
-> Responsive Landing page for a fictional business.
+> Responsive landing page for a fictional business.
 
 [//]: # (Screenshot, Application concept art etc)
 ![Screenshot](./screenshot.png)
