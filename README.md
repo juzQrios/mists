@@ -1,16 +1,16 @@
 # Mists
 
-> Landing page for a fictional business.
+> Responsive Landing page for a fictional business.
 
 [//]: # (Screenshot, Application concept art etc)
 ![Screenshot](./screenshot.png)
 
 [//]: # (Live Demo link)
 <p align="center">
-  <a href="https://tripoly-challenge.netlify.app/">Live Demo</a>
+  <a href="https://mists-fictional.netlify.app/">Live Demo</a>
 </p>
 <p align="center">
-  <a href="https://www.figma.com/community/file/888694273623743482/Tripoly-Design-Challenge">Figma Design</a>
+  <a href="https://www.figma.com/community/file/888694273623743482/Mists">Figma Design</a>
 </p>
 
 ## Built With
@@ -28,7 +28,7 @@
 1. Clone this repository.
 
 ```bash
-git clone git@github.com:juzQrios/tripoly-challenge.git
+git clone git@github.com:juzQrios/mists.git
 ```
 
 2. Install dependencies.
